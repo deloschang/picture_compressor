@@ -1,0 +1,4 @@
+Using K-Means regression to compress picture quality. 
+
+Start with random initial centroids (or first k unique colors), 
+then use k-means algorithm to converge to average.

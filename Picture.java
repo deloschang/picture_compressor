@@ -13,7 +13,6 @@ import java.util.ArrayList;
  * Copyright Georgia Institute of Technology 2004-2008
  * @author Barbara Ericson ericson@cc.gatech.edu
  * 
- * @author Delos Chang - modified for PS1 for CS10 -- 1/20/13
  * modified to reduce the image into X colors using k-means algorithm, random colors 
  * 
  */
